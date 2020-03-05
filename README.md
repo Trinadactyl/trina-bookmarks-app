@@ -11,3 +11,4 @@ Bookmarking app which allows user to:
   View 'condesed version on list on initial page load
 
   Select from a list of ratings
+[![Run on Repl.it](https://repl.it/badge/github/Trinadactyl/trina-bookmarks-app)](https://repl.it/github/Trinadactyl/trina-bookmarks-app)
